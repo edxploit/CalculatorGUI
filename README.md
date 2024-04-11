@@ -1,6 +1,9 @@
 /*----------------------------------------------------------------------------------------
+
 Using Intellij's [Swing] feature to implement a Graphical User Interface for a calculator.
+
 ----------------------------------------------------------------------------------------*/
+
 
 Calculator image preview of when the [Calculator.java] code runs. 
 
