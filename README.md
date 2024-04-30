@@ -1,4 +1,4 @@
-# Intellij's [Swing] feature: A Graphical User Interface for a Calculator
+# Intellij's [Swing] feature: Create GUI for a Calculator
 
   > [!IMPORTANT]
 > Version: 1.0
