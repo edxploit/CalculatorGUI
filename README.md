@@ -8,6 +8,8 @@ Version: 1.0
 
 Expect bugs and errors.
 
+/*---------------------------------------------------------------------------------------------------------------*/
+
 Links:
 
 #IntelliJ https://www.jetbrains.com/idea/download/?section=mac
