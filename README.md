@@ -1,9 +1,9 @@
 <details>
   <summary>Intellij's [Swing] feature: A Graphical User Interface for a Calculator</summary>
 
-  Version: 1.0
-
-  Expect bugs and errors.
+  > [!IMPORTANT]
+> Version: 1.0
+>  Expect bugs and errors.
 
   /---------------------------------------------------------------------------------------------------------------/
 
