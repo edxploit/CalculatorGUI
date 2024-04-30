@@ -1,8 +1,6 @@
-/---------------------------------------------------------------------------------------------------------------/
+# Using Intellij's [Swing] feature to implement a Graphical User Interface for a Calculator.
 
-        Using Intellij's [Swing] feature to implement a Graphical User Interface for a calculator.
 
-/---------------------------------------------------------------------------------------------------------------/
 
 Version: 1.0
 
