@@ -1,5 +1,5 @@
 <details>
-  <summary>Intellij's [Swing] feature: A Graphical User Interface for a Calculator</summary>
+# Intellij's [Swing] feature: A Graphical User Interface for a Calculator
 
   > [!IMPORTANT]
 > Version: 1.0
